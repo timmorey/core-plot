@@ -1,0 +1,6 @@
+framework module CorePlot {
+    umbrella header "CorePlot-CocoaTouch.h"
+
+    export *
+    module * { export * }
+}
